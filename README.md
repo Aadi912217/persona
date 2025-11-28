@@ -1,16 +1,1 @@
-# myapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+My Profile App is built using Flutter with a clean MVC structure and GetX for state management and navigation. The UI follows Material Design guidelines, using widgets such as Scaffold, Column, Row, Card, ListView, and CircleAvatar to create a modern and responsive layout. The Welcome Screen uses a gradient background and a navigation button. The Profile Screen displays the user’s picture, personal details, contact information, and social media links using IconButtons. A floating action button leads to the About Me page, which organizes education, skills, and hobbies using ListView and Chip widgets. Custom colors, padding, and responsive design ensure a professional look across devices. The project follows SOLID principles and includes reusable custom widgets.

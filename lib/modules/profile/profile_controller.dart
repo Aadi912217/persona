@@ -8,7 +8,7 @@ class ProfileController extends GetxController {
   final isDarkMode = false.obs;
 
   final profile = ProfileModel(
-    name: 'Azan Ahmed',
+    name: 'Najeeb Ul Hassan',
     profession: 'Flutter Developer',
     bio:
         'A passionate Flutter developer with a love for creating beautiful and functional mobile applications. Experienced in building cross-platform apps from scratch.',

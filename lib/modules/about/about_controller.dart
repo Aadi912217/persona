@@ -4,7 +4,7 @@ import 'package:my_profile_app/core/constants/app_constants.dart';
 
 class AboutController extends GetxController {
   final profile = ProfileModel(
-    name: 'Your Name',
+    name: 'Najeeb Ul Hassan',
     profession: 'Flutter Developer',
     bio:
         'A passionate Flutter developer with a love for creating beautiful and functional mobile applications. Experienced in building cross-platform apps from scratch.',
